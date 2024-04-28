@@ -123,7 +123,7 @@ def make_choropleth(input_df, input_id, input_column, continent="All"):
     )
 
     choropleth.update_layout(
-        template="plotly_dark",
+        template="plotly_white",
         plot_bgcolor="rgba(0, 0, 0, 0)",
         paper_bgcolor="rgba(0, 0, 0, 0)",
         margin=dict(l=0, r=0, t=0, b=0),

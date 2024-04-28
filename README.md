@@ -14,7 +14,7 @@ This README provides an overview of the Covid Evaluation Repository. The reposit
 
 ## Dashboard
 
-COVID interactive dashboard can be found at [this link](http://xxxx.com).
+COVID interactive dashboard can be found at [this link](https://covid-analytics-dashboard-d7e8ed5a011d.herokuapp.com/).
 
 ## Vaccination Forecasting
 
